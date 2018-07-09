@@ -1,6 +1,6 @@
 package io.demet.hello.repository;
 
-        import io.demet.hello.Model.Person;
+        import io.demet.hello.model.Person;
         import org.springframework.data.repository.CrudRepository;
         import org.springframework.stereotype.Repository;
 

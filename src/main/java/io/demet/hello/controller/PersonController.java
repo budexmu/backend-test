@@ -1,6 +1,6 @@
 package io.demet.hello.controller;
 
-import io.demet.hello.Model.Person;
+import io.demet.hello.model.Person;
 import io.demet.hello.service.PersonService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

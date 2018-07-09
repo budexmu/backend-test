@@ -1,4 +1,4 @@
-package io.demet.hello.Model;
+package io.demet.hello.model;
 
 import lombok.Data;
 

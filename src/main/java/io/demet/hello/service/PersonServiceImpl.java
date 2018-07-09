@@ -1,6 +1,6 @@
 package io.demet.hello.service;
 
-import io.demet.hello.Model.Person;
+import io.demet.hello.model.Person;
 import io.demet.hello.repository.PersonRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
